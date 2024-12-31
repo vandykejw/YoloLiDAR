@@ -1,0 +1,11 @@
+name: ML-PyTorch_fast.ai
+channels:
+  - defaults
+
+dependencies:
+  - pip
+  - numpy
+  - jupyter
+  
+  #- pip:
+  #  - package
